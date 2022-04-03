@@ -1,6 +1,6 @@
 {
     " a " : {
-" mensaje " : " ! ip 172.70.54.100"
+" mensaje " : " ! ip 172.70.254.30"
 },
                                                                             " a " : {
 " mensaje " : " ! ip IP"
@@ -192,7 +192,7 @@
 " mensaje " : " ! ip IP"
 },
                               " a  " : {
-" mensaje " : " ! ip 24.164.17.111"
+" mensaje " : " ! ip IP"
 },
                                 " a  " : {
 " mensaje " : " ! ip IP"
